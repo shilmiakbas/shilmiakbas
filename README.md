@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shilmiakbas
-- 👀 I’m interested in Web Devoplopment
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Web Devoplopment and Software Testing
+- 🌱 I’m currently learning JavaScript, Python, API Testing, Test Automation... 
+- 💞️ I’m looking to collaborate on web development or software testing.
 - 📫 Here's how to reach me: shilmiakbas@gmail.com
 
 <!---
